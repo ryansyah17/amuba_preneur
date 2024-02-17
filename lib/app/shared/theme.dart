@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+import 'package:supercharged/supercharged.dart';
+
+Color mainColor = '8EC3B0'.toColor();
+Color primerColor = 'DEF5E5'.toColor();
+Color subPrimerColor = '9ED5C5'.toColor();
+Color thirdPrimerColor = 'BCEAD5'.toColor();
+Color pembeda = '227C70'.toColor();
+Color orange = 'FF8551'.toColor();
+Color orange1 = 'C63D2F'.toColor();
+Color orange2 = 'E25E3E'.toColor();
+Color orange3 = 'FFBB5C'.toColor();
+Color abu = '757575'.toColor();
+Color abuabu = 'ededed'.toColor();
+Color putih = Colors.white;
+Color pink = 'FF57BB'.toColor();
+Color blue = '0477A9'.toColor();
+Color blueback = '2196F3'.toColor();
+Color kuning = 'F7931E'.toColor();
+Color birulangit = '65b4ce'.toColor();
+Color birubg = '0097b2'.toColor();
+Color hitam = Colors.black;
